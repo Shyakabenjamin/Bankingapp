@@ -1,4 +1,5 @@
-namespace BankApp
+using System;
+namespace Bankingapp
 {
     public class Customer
     {
