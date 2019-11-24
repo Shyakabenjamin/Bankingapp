@@ -1,6 +1,6 @@
 using System;
 
-namespace BankApp
+namespace Bankingapp
 {
     public class Account
     {
